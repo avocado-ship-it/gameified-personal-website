@@ -1,1 +1,1 @@
-# metroidvania-website
+gameified-personal-website
